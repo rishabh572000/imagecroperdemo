@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imagecroperdemo/static/css/main.a624b764.css",
+    "main.js": "/imagecroperdemo/static/js/main.58c2b187.js",
+    "static/js/787.13c2fb87.chunk.js": "/imagecroperdemo/static/js/787.13c2fb87.chunk.js",
+    "static/media/logo.svg": "/imagecroperdemo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/imagecroperdemo/index.html",
+    "main.a624b764.css.map": "/imagecroperdemo/static/css/main.a624b764.css.map",
+    "main.58c2b187.js.map": "/imagecroperdemo/static/js/main.58c2b187.js.map",
+    "787.13c2fb87.chunk.js.map": "/imagecroperdemo/static/js/787.13c2fb87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a624b764.css",
+    "static/js/main.58c2b187.js"
+  ]
+}
